@@ -1,6 +1,6 @@
 # 🛠️ Helpdesk Ticketing System
 
-A simple PHP-MySQL based Helpdesk Ticketing System for managing client-submitted issues. Developed for our final project by **Bayla, De Vera, and Albert**.
+A simple PHP-MySQL based Helpdesk Ticketing System for managing client-submitted issues. Developed for our final project by **Group-Bayla, De Vera, Camino, Castelltort,Sangalang and Bayla**.
 
 ---
 
